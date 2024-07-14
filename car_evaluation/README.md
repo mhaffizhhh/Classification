@@ -9,4 +9,4 @@ The [car_data.csv](https://github.com/mhaffizhhh/Classification/blob/main/car_ev
 * Model Selection
 
 ## Result
-The results can be seen in [Car Evaluation](https://github.com/mhaffizhhh/Classification/tree/main/car_evaluation) with Decission Tree having the largest accuracy score.
+The results can be seen in [ML_Classification_1.ipynb](https://github.com/mhaffizhhh/Classification/tree/main/car_evaluation) with Decission Tree having the largest accuracy score.
